@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "type": "rentals",
+      "id": "long-sleeve-jersey",
+      "attributes": {
+        "title": "Long sleeve jersey",
+        "owner": "Rapha",
+        "city": "San Francisco",
+        "location": {
+          "lat": 37.7749,
+          "lng": -122.4194
+        },
+        "category": "Estate",
+        "bedrooms": 15,
+        "image": "../assets/images/jacket-removebg.png",
+        "description": "This Long sleeve jersey sits on over 100 acres of rolling hills and dense redwood forests."
+      }
+    },
+    {
+      "type": "rentals",
+      "id": "gilet",
+      "attributes": {
+        "title": "Gilet",
+        "owner": "Rapha",
+        "city": "Seattle",
+        "location": {
+          "lat": 47.6062,
+          "lng": -122.3321
+        },
+        "category": "Condo",
+        "bedrooms": 1,
+        "image": "../assets/images/gilet.png", 
+        "description": "A commuters dream. This rental is within walking distance of 2 bus stops and the Metro."
+      }
+    },
+    {
+      "type": "rentals",
+      "id": "bib-short",
+      "attributes": {
+        "title": "Bib shorts",
+        "owner": "Rapha",
+        "city": "Portland",
+        "location": {
+          "lat": 45.5175,
+          "lng": -122.6801
+        },
+        "category": "Apartment",
+        "bedrooms": 3,
+        "image": "../assets/images/bib-short.png",
+        "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+      }
+    }
+  ]
+}

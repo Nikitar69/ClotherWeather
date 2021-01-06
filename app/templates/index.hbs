@@ -1,0 +1,18 @@
+
+<Jumbo>
+  
+  <h2>What to wear?</h2>
+  <p>We hope you find exactly what you're looking for wearing today activity.</p>
+  <LinkTo @route="about" class="button">About Us</LinkTo>
+</Jumbo>
+
+
+<div class="clothers">
+  <ul class="results">
+    
+    {{#each @model as |clother|}}
+      <li><Clother @clother={{clother}} /></li>
+    {{/each}}
+  </ul>
+</div>
+

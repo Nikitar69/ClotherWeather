@@ -1,0 +1,35 @@
+<article class="clother-item">
+   <Clother::Image
+    src={{@clother.image}}
+    alt="A picture of {{@clother.title}}"
+  />
+ 
+  <div class="details">
+    <h3>
+      <LinkTo @route="clother" @model={{@clother}}>
+        {{@clother.title}}
+      </LinkTo>
+    </h3>
+
+    <div class="detail owner">
+      <span>Factory:</span> {{@clother.owner}}
+    </div>
+    <div class="detail type">
+      <span>Type:</span> {{@clother.type}}
+    </div>
+    <div class="detail location">
+      <span>Weather:</span> {{@clother.weather}} &#8451;
+    </div>
+    <div class="detail rain-resistance">
+      <span>For rain:</span> {{@clother.rainResistance}}
+    </div>
+  </div>
+    <Map
+    @lat={{@clother.location.lat}}
+    @lng={{@clother.location.lng}}
+    @zoom="8"
+    @width="150"
+    @height="150"
+    alt="good place to ride in this item"
+    />
+</article>

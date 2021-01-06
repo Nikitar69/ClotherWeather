@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "rentals",
+    "id": "long-sleeve-jersey",
+    "attributes": {
+      "title": "Long sleeve jersey",
+      "owner": "Veruca Salt",
+      "city": "San Francisco",
+      "location": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "Estate",
+      "bedrooms": 15,
+      "image": "../assets/images/jacket-removebg.png",
+      "description": "This Long sleeve jersey sits on over 100 acres of rolling hills and dense redwood forests."
+    }
+  }
+}
