@@ -1,0 +1,13 @@
+<div class="clothers">
+  <label>
+    <span>What kind of apparel you're looking for?</span>
+    <input class="light">
+  </label>
+
+  <ul class="results">
+    {{#each @clothers as |clother|}}
+      <li><Clother @clother={{clother}} /></li>
+    {{/each}}
+  </ul>
+
+</div>

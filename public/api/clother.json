@@ -50,6 +50,74 @@
         "image": "../assets/images/bib-short.png",
         "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
       }
+    },
+    {
+      "type": "rentals",
+      "id": "bib-short",
+      "attributes": {
+        "title": "Bib shorts",
+        "owner": "Rapha",
+        "city": "Portland",
+        "location": {
+          "lat": 45.5175,
+          "lng": -122.6801
+        },
+        "category": "Apartment",
+        "bedrooms": 3,
+        "image": "../assets/images/bib-short.png",
+        "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+      }
+    },
+    {
+      "type": "rentals",
+      "id": "bib-short",
+      "attributes": {
+        "title": "Bib shorts",
+        "owner": "Rapha",
+        "city": "Portland",
+        "location": {
+          "lat": 45.5175,
+          "lng": -122.6801
+        },
+        "category": "Apartment",
+        "bedrooms": 3,
+        "image": "../assets/images/bib-short.png",
+        "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+      }
+    },
+    {
+      "type": "rentals",
+      "id": "bib-short",
+      "attributes": {
+        "title": "Bib shorts",
+        "owner": "Rapha",
+        "city": "Portland",
+        "location": {
+          "lat": 45.5175,
+          "lng": -122.6801
+        },
+        "category": "Apartment",
+        "bedrooms": 3,
+        "image": "../assets/images/bib-short.png",
+        "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+      }
+    },
+    {
+      "type": "rentals",
+      "id": "bib-short",
+      "attributes": {
+        "title": "Bib shorts",
+        "owner": "Rapha",
+        "city": "Portland",
+        "location": {
+          "lat": 45.5175,
+          "lng": -122.6801
+        },
+        "category": "Apartment",
+        "bedrooms": 3,
+        "image": "../assets/images/bib-short.png",
+        "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+      }
     }
   ]
 }
